@@ -1,0 +1,36 @@
+h1, h2, h3 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-weight: 22px;
+}
+
+h2 {
+    font-weight: 15px;
+}
+
+h3 {
+    font-weight: 10px;
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    background-color: gray;
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-position: inside;
+}
