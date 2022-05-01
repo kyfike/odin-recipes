@@ -4,6 +4,7 @@ h1, h2, h3 {
 
 h1 {
     font-weight: 22px;
+    text-align: center;
 }
 
 h2 {
@@ -15,16 +16,15 @@ h3 {
 }
 
 body {
-    text-align: center;
+    text-align: left;
 }
 
-a {
-    background-color: gray;
+a, div {
     text-align: center;
 }
 
 p {
-    color: blue;
+    color: rgb(42, 72, 92);
 }
 
 ol {
